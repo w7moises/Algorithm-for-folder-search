@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\usuario\downloads\tf\tf\Archivo.hpp(28): warning C4244: '=': conversión de 'uintmax_t' a 'int'; posible pérdida de datos
+  Source.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  TF.vcxproj -> C:\Users\usuario\Downloads\TF\Debug\TF.exe
+  TF.vcxproj -> C:\Users\usuario\Downloads\TF\Debug\TF.pdb (Partial PDB)
