@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\cursos\algoritmos\sem12\tf\tf\Archivo.hpp(23): warning C4244: '=': conversion from 'uintmax_t' to 'int', possible loss of data
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  TF.vcxproj -> D:\Cursos\Algoritmos\Sem12\TF\Release\TF.exe
+  TF.vcxproj -> D:\Cursos\Algoritmos\Sem12\TF\Release\TF.pdb (Full PDB)

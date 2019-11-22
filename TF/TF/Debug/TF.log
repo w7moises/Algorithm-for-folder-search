@@ -1,5 +1,7 @@
 ﻿  Source.cpp
-c:\users\usuario\downloads\tf\tf\Archivo.hpp(28): warning C4244: '=': conversión de 'uintmax_t' a 'int'; posible pérdida de datos
+c:\users\usuario\documents\github\algorithmfinalproject\tf\tf\Archivo.hpp(28): warning C4244: '=': conversión de 'uintmax_t' a 'int'; posible pérdida de datos
+c:\users\usuario\documents\github\algorithmfinalproject\tf\tf\Archivo.hpp(69): warning C4800: 'int': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+c:\users\usuario\documents\github\algorithmfinalproject\tf\tf\archivo.hpp(71): warning C4715: 'Archivo::operator<=': no todas las rutas de acceso de control devuelven un valor
   Source.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
-  TF.vcxproj -> C:\Users\usuario\Downloads\TF\Debug\TF.exe
-  TF.vcxproj -> C:\Users\usuario\Downloads\TF\Debug\TF.pdb (Partial PDB)
+  TF.vcxproj -> C:\Users\usuario\Documents\GitHub\AlgorithmFinalProject\TF\Debug\TF.exe
+  TF.vcxproj -> C:\Users\usuario\Documents\GitHub\AlgorithmFinalProject\TF\Debug\TF.pdb (Partial PDB)

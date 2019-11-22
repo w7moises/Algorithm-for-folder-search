@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\usuario\downloads\tf\tf\Archivo.hpp(28): warning C4244: '=': conversión de 'uintmax_t' a 'int'; posible pérdida de datos
+c:\users\usuario\downloads\tf\tf\Archivo.hpp(119): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\downloads\tf\tf\archivo.hpp(82): warning C4715: 'Archivo::operator<': no todas las rutas de acceso de control devuelven un valor
+c:\users\usuario\downloads\tf\tf\archivo.hpp(94): warning C4715: 'Archivo::operator>': no todas las rutas de acceso de control devuelven un valor
+c:\users\usuario\downloads\tf\tf\archivo.hpp(136): warning C4715: 'Archivo::operator==': no todas las rutas de acceso de control devuelven un valor
+  Source.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  TF.vcxproj -> C:\Users\usuario\Downloads\TF\Debug\TF.exe
+  TF.vcxproj -> C:\Users\usuario\Downloads\TF\Debug\TF.pdb (Partial PDB)

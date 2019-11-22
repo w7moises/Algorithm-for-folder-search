@@ -65,7 +65,9 @@ public:
 		}
 	}
 	bool operator<=(Archivo  rhs) {
-		return fsi <= rhs.fsi;
+		if (rhs.fsi < 5000 && rhs.fsi != 0) {
+			return rhs.fsi;
+		}
 	}
 	bool operator>( Archivo  rhs)  {
 		return fsi> rhs.fsi;
